@@ -1,0 +1,16 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.blog-header-logo{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 2.25rem;
+}
+
+footer{
+    margin: 0%;
+}
